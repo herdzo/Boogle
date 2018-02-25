@@ -1,0 +1,147 @@
+.boogle {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 800px;
+  min-height: 600px;
+}
+
+.header {
+  position: relative;
+}
+
+
+
+a {
+  text-align: center;
+}
+.top-button {
+  position: relative;
+  left: 1000px;
+  height: 40px;
+  display: inline-block;
+}
+
+.link {
+  font-family: arial,sans-serif;
+  color: black;
+  font-size: 14px;
+  text-decoration: none;
+  text-align: center;
+}
+
+.link:hover {
+  font-family: arial,sans-serif;
+  color: gray;
+  font-size: 14px;
+  text-decoration: underline;
+}
+
+.content {
+  position: relative;
+  text-align: center;
+  background: #fff;
+  padding: 10px;
+}
+
+.main-button {
+  position: relative;
+  margin: 0 auto;
+  width: 402px;
+  height: 214px;
+  border-radius: 20px;
+  background: #fff;
+}
+
+.išči-button {
+  position: relative;
+  width: 125px;
+  height: 45px;
+  display: inline-block;
+  border-radius: 20px;
+  background: #fff;
+}
+.search-button {
+  position: absolute;
+  right: 0px;
+  bottom: 0px;
+  background: #fff;
+  border-radius: 10px;
+  padding: 2px;
+}
+
+.button {
+  position: relative;
+  padding: 10px;
+  border: 1px #fff solid;
+  text-align: center;
+  border-radius: 5px;
+  background: lightgray;
+  font-family: arial,sans-serif;
+  color: gray;
+}
+
+.button:hover {
+  position: relative;
+  display: inline-block;
+  padding: 10px;
+  border: 1px gray solid;
+  border-radius: 5px;
+  font-family: arial,sans-serif;
+  color: black;
+}
+
+.iskalnik {
+  position: relative;
+  width: 400px;
+  border-radius: 0.1px;
+  padding: 10px;
+}
+
+.footer {
+  position: relative;
+  bottom: 0;
+  background: lightgray;
+  padding: 0;
+  font-family: arial,sans-serif;
+  color: gray;
+}
+
+.slovenija {
+  position: relative;
+  left: 30px;
+  display: inline-block;
+  font-family: arial,sans-serif;
+  padding: 0;
+}
+
+.bottom-button-left {
+  position: relative;
+  left: 20px;
+  display: inline-block;
+  font-family: arial,sans-serif;
+  padding: 15px;
+}
+
+.bottom-button-right {
+  position: relative;
+  left: 500px;
+  display: inline-block;
+  font-family: arial,sans-serif;
+  padding: 15px;
+}
+
+
+.bottom-link {
+  font-family: arial,sans-serif;
+  color: gray;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.bottom-link:hover {
+  font-family: arial,sans-serif;
+  color: darkgray;
+  font-size: 14px;
+  text-decoration: underline;
+}
